@@ -1,9 +1,19 @@
-// Settings in here override those in "Default/Base File.sublime-settings", and
-// are overridden in turn by file type specific settings. Place your settings
-// here, to ensure they're preserved when upgrading.
 {
-	"set_syntax_map": {
-		"Gemfile": "Ruby",
-		"COMMIT_EDITMSG": "Diff"
-	}
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Consolas",
+	"font_size": 14,
+	"highlight_line": true,
+	"rulers":
+	[
+		78
+	],
+	"set_syntax_map":
+	{
+		"COMMIT_EDITMSG": "Diff",
+		"Gemfile": "Ruby"
+	},
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
