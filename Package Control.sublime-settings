@@ -1,5 +1,9 @@
 {
-	"auto_upgrade_last_run": 1323973763,
+	"auto_upgrade_last_run": 1326118249,
+	"installed_packages":
+	[
+		"Package Control"
+	],
 	"repositories":
 	[
 		"https://github.com/kuroir/SCSS.tmbundle.git"
