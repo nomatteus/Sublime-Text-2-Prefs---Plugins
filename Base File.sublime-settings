@@ -1,9 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Consolas",
 	"font_size": 14,
+	"highlight_active_indent_guide": true,
 	"highlight_line": true,
 	"rulers":
 	[
@@ -14,9 +16,7 @@
 		"COMMIT_EDITMSG": "Diff",
 		"Gemfile": "Ruby"
 	},
-	"translate_tabs_to_spaces": true,
 	"tab_completion": true,
-	"highlight_active_indent_guide": true,
-	"trim_trailing_white_space_on_save": false,
-	"caret_style": "phase"
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false
 }

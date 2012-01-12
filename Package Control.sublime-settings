@@ -1,8 +1,10 @@
 {
-	"auto_upgrade_last_run": 1326118249,
+	"auto_upgrade_last_run": 1326380244,
 	"installed_packages":
 	[
-		"Package Control"
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter"
 	],
 	"repositories":
 	[
