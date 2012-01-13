@@ -18,5 +18,6 @@
 	},
 	"tab_completion": true,
 	"translate_tabs_to_spaces": true,
+	"tab_size": 2,
 	"trim_trailing_white_space_on_save": false
 }
