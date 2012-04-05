@@ -1,13 +1,16 @@
 {
-	"auto_upgrade_last_run": 1326481342,
+	"auto_upgrade_last_run": 1333489789,
 	"installed_packages":
 	[
+		"Alignment",
 		"Package Control",
+		"SublimeBlockCursor",
 		"SublimeCodeIntel",
 		"SublimeLinter"
 	],
 	"repositories":
 	[
-		"https://github.com/kuroir/SCSS.tmbundle.git"
+		"https://github.com/kuroir/SCSS.tmbundle.git",
+		"https://github.com/netpro2k/SublimeBlockCursor.git"
 	]
 }
