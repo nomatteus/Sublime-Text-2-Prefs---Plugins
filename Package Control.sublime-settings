@@ -1,10 +1,9 @@
 {
-	"auto_upgrade_last_run": 1333489789,
+	"auto_upgrade_last_run": 1338321359,
 	"installed_packages":
 	[
 		"Alignment",
 		"Package Control",
-		"SublimeBlockCursor",
 		"SublimeCodeIntel",
 		"SublimeLinter"
 	],
