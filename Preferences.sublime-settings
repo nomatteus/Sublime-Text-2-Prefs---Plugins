@@ -1,7 +1,7 @@
 {
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/Tubnil.tmTheme",
 	"draw_minimap_border": false,
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
@@ -16,6 +16,7 @@
 	"font_size": 15.0,
 	"highlight_active_indent_guide": true,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 	],
@@ -30,6 +31,7 @@
 	},
 	"tab_completion": true,
 	"tab_size": 2,
+	"theme": "Nil.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false
 }

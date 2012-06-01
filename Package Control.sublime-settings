@@ -1,11 +1,15 @@
 {
-	"auto_upgrade_last_run": 1338321359,
+	"auto_upgrade_last_run": 1338487199,
 	"installed_packages":
 	[
 		"Alignment",
+		"Git",
 		"Package Control",
 		"SublimeCodeIntel",
-		"SublimeLinter"
+		"SublimeLinter",
+		"Theme - Nil",
+		"Themr",
+		"WordCount"
 	],
 	"repositories":
 	[
