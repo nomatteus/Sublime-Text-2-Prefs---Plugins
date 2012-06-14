@@ -13,7 +13,6 @@
 	],
 	"repositories":
 	[
-		"https://github.com/kuroir/SCSS.tmbundle.git",
-		"https://github.com/netpro2k/SublimeBlockCursor.git"
+		"https://github.com/kuroir/SCSS.tmbundle.git"
 	]
 }
