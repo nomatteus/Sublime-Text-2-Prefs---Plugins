@@ -1,12 +1,17 @@
 {
-	"auto_upgrade_last_run": 1339420769,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
+		"BracketHighlighter",
 		"Git",
+		"GitGutter",
 		"Package Control",
+		"RubyTest",
+		"Sass",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeRope",
 		"Theme - Nil",
 		"Themr",
 		"WordCount"

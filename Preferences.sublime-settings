@@ -3,7 +3,10 @@
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/Tubnil.tmTheme",
 	"draw_minimap_border": false,
-	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.sassc"
+	],
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -13,12 +16,15 @@
 		".sass-cache"
 	],
 	"font_face": "Consolas",
-	"font_size": 16.0,
+	"font_size": 17.0,
 	"highlight_active_indent_guide": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"BracketHighlighter",
+		"SublimeLinter",
+		"SublimeCodeIntel"
 	],
 	"rulers":
 	[

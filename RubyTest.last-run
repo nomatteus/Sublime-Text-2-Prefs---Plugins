@@ -1,0 +1,4 @@
+{
+	"last_test_run": "ruby -Itest test/unit/area_test.rb -n 'test_merge_into_with_disabled_area'",
+	"last_test_working_dir": "/Users/mruten/Projects/twg/fpf"
+}

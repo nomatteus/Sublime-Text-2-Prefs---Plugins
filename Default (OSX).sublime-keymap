@@ -1,3 +1,11 @@
 [
-    { "keys": ["ctrl+shift+d"], "command": "duplicate_line" }
+  { "keys": ["ctrl+shift+d"], "command": "duplicate_line" },
+  // Commented out `super+shift+w`: `close_window` binding in default, as I tried overriding here, 
+  //    but didn't work. (Disabling because I kept accidentally triggering it.)
+
+  // Remapping, as the defaults conflict with something else and don't work  
+  { "keys": ["ctrl+alt+1"], "command": "focus_group", "args": { "group": 0 } },
+  { "keys": ["ctrl+alt+2"], "command": "focus_group", "args": { "group": 1 } },
+  { "keys": ["ctrl+alt+3"], "command": "focus_group", "args": { "group": 2 } },
+  { "keys": ["ctrl+alt+4"], "command": "focus_group", "args": { "group": 3 } }
 ]

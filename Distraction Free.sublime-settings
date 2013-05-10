@@ -1,4 +1,12 @@
 {
-    "font_size": 20,
-    "rulers": []
+  "font_size": 18,
+  "rulers": [],
+  "line_numbers": true,
+  "gutter": true,
+  "draw_centered": true,
+  "wrap_width": 0,
+  "word_wrap": true,
+  "scroll_past_end": true
 }
+
+

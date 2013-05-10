@@ -383,6 +383,41 @@
 				<string></string>
 			</dict>
 		</dict>
+		<!-- Start custom Colors for GitGutter-->
+		<dict>
+		  <key>name</key>
+		  <string>diff.deleted</string>
+		  <key>scope</key>
+		  <string>markup.deleted</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#F92672</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>diff.inserted</string>
+		  <key>scope</key>
+		  <string>markup.inserted</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#A6E22E</string>
+		  </dict>
+		</dict>
+		<dict>
+		  <key>name</key>
+		  <string>diff.changed</string>
+		  <key>scope</key>
+		  <string>markup.changed</string>
+		  <key>settings</key>
+		  <dict>
+		    <key>foreground</key>
+		    <string>#967EFB</string>
+		  </dict>
+		</dict>
+		<!-- End custom Colors for GitGutter-->
 	</array>
 	<key>uuid</key>
 	<string>02019C6E-C747-44D5-94B5-110B867C1C22</string>
